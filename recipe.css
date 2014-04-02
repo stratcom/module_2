@@ -22,7 +22,7 @@ body
     #texCav
     {
         font-family: 'Denk One', sans-serif;
-        color: #751947
+        color: #751947;
     }
     
     ol.a {list-style-type:lower-roman;}
@@ -41,6 +41,6 @@ body
     
     #cheeseGritsSection
     {
-    border:5px solid red;
+    border:7px solid red;
     }
 
