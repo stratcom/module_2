@@ -1,12 +1,12 @@
 body
     {
-    background-color: #DEB887;
+    background-color: #A3FFFF;
     font-family: verdana, sans-serif;
         
     }
     h1 
     {
-    color: #A155E8;
+    color: #3385FF;
     }
 
     h2
@@ -25,4 +25,22 @@ body
         color: #751947
     }
     
+    ol.a {list-style-type:lower-roman;}
+
+    a:visited 
+    { 
+    color: #FF0000; 
+    }
+
+    a:hover { color: #004200; }
+
+    #cheeseGrits
+    {
+    list-style-type:circle;
+    }
+    
+    #cheeseGritsSection
+    {
+    border:5px solid red;
+    }
 
