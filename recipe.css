@@ -1,4 +1,28 @@
 body
-{
-background-color: #66cc00;
-}
+    {
+    background-color: #DEB887;
+    font-family: verdana, sans-serif;
+        
+    }
+    h1 
+    {
+    color: #A155E8;
+    }
+
+    h2
+    { color: #FF3300
+        }    
+
+    .instructions 
+    {
+    color: 	#006600;
+    text-indent:50px;
+    }
+
+    #texCav
+    {
+        font-family: 'Denk One', sans-serif;
+        color: #751947
+    }
+    
+
